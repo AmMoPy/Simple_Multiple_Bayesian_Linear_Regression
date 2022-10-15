@@ -15,7 +15,7 @@ Table of contents:
   - Simple feature engineering
   - Generalizability: evaluating performance out of sample
   - Errors vs Residuals
-  - Simple linear regression
+- Simple linear regression
   - Covariance vs Correlation
   - Simple OLS regression from scratch
 - Gradient Decent (GD)
