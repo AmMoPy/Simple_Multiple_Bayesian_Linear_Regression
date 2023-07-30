@@ -27,4 +27,4 @@ Table of contents:
   - Markov chain Monte Carlo sampling
 - Capital Asset Pricing Model (CAPM)
 
-NB can also be found at [Kaggle](https://www.kaggle.com/code/amrmuhammad/fifty-shades-of-ols)
+Check my [YouTube Channel](https://www.youtube.com/@ammopy)
